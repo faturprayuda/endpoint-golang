@@ -8,7 +8,7 @@ http://localhost:8080/list-user
 
 this API will show all user list.
 
-## **API GET List**
+## **API GET Detail List**
 
 http://localhost:8080/detail-user/:login
 
